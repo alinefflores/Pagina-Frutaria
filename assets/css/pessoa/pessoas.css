@@ -1,8 +1,8 @@
 
 .pessoas{
-    display: flex; /*para ficar um ao lado do outro*/
-    justify-content: space-around;  /*caixa ao lado do outro*/
-    padding-top: 3rem; /*de cima*/
+    display: flex; 
+    justify-content: space-around;  
+    padding-top: 3rem; 
 }
 
 @media screen and (min-width: 0) {

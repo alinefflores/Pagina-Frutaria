@@ -2,7 +2,7 @@
 .receita {
     background-color: #fdfdfd;
     display: flex;
-    flex-direction: column; /* para telas menores ficar em coluna*/
+    flex-direction: column; 
     margin-bottom: 5rem;
 }
 

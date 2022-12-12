@@ -4,8 +4,8 @@
     background-color: #eeeaea;
     display: flex;
     justify-content: space-between;
-    padding-left: 2rem; /*espaçamento externo a esquerda*/
-    padding-right: 2rem; /*espaçamento externo a direita*/
+    padding-left: 2rem; 
+    padding-right: 2rem; 
 }
 
 @media screen and (min-width: 0) {

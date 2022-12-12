@@ -1,6 +1,6 @@
 
 .menu__item {
-    list-style: none; /*retirar bolinha*/    
+    list-style: none;   
 }
 
 .menu__item: last-child .menu__link {
