@@ -1,0 +1,17 @@
+
+.pessoa{
+    display: flex; /*para ficar um ao lado do outro*/
+    flex-direction: column;    
+}
+
+@media screen and (min-width: 0) {
+    .pessoa{
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .pessoa{
+        margin-bottom: 0; /*não vai precisar de espaçamento - uma img ao lado da outra*/
+    }
+}

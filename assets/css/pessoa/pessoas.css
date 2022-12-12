@@ -1,0 +1,18 @@
+
+.pessoas{
+    display: flex; /*para ficar um ao lado do outro*/
+    justify-content: space-around;  /*caixa ao lado do outro*/
+    padding-top: 3rem; /*de cima*/
+}
+
+@media screen and (min-width: 0) {
+    .pessoas{
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .pessoas{
+        flex-direction: row;
+    }
+}

@@ -1,0 +1,18 @@
+
+section > img{
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+
+@media screen and (min-width: 0) {
+    section > img{
+        height: calc(80vh - 51px);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    section > img{
+        height: calc(80vh - 72px);
+    }
+}
