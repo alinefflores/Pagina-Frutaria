@@ -1,5 +1,5 @@
 # <h1>Página Frutaria</h1>
-<p>Projeto de uma página de Frutaria com receitas. Imagens do curso Alura</p>
+<p>Projeto de uma página de Frutaria com receitas. Imagens do curso Alura.</p>
 <p>Com HTML e CSS</p>
 
 ![image](https://user-images.githubusercontent.com/115930506/214063564-9afbd289-e594-4b67-b94b-fa234b7cc475.png)
